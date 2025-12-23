@@ -22,4 +22,16 @@ git branch
 git checkout -b feature-readme-instruction
 git checkout master, to switch back to master branch
 
+# to see the different between branch
+git diff xxx
 
+xxx -> branch name.
+
+# to combine branch
+git merge xxx
+
+xxx -> branch name.
+
+common practice is to go back to the branch that you want to take to the main branch, then 
+git status
+git push
