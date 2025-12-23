@@ -48,5 +48,8 @@ git pull -u origin master
 # to delete branch
 git branch -d feature-instruction
 
+# git conflict
+if we update in master, you can to commit the changes before moving to another branch, otherwise, it will be an error for being overwritten by checkout. 
+
 
 
