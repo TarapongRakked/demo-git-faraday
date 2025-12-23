@@ -45,3 +45,8 @@ git pull
 git pull origin master
 git pull -u origin master
 
+# to delete branch
+git branch -d feature-instruction
+
+
+
