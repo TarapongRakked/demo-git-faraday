@@ -163,6 +163,8 @@ common practice is to go back to the branch that you want to take to the main br
 git status
 git push
 
+after merging try to commit and push.
+
 # pull request (PR)
 to pull your code from one branch to another branch. onece we make a PR, anyone can review on it and make a comment. to make changes and update. after making PR, you can still change a code, by making another commit. 
 Once the PR is merged, it will delete the branch. If you want to make another changes, you need to create a new branch. 
